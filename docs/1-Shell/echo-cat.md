@@ -1,8 +1,3 @@
----
-title: echo & cat
-date: 2022-05-27
-categories: LinuxTips
----
 
 ![image-20220527214045699](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220527214045699.png)
 

@@ -1,8 +1,3 @@
----
-title: 探究一个有意思的现象 => 「cd 没有 manual」
-date: 2022-05-04
-categories: LinuxTips
----
 
 > on ubuntu_21.04
 

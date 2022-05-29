@@ -1,8 +1,3 @@
----
-title: 在 Unix-like-os 上，为什么文件夹是可以被“执行”的 ？
-date: 2022-05-14
-categories: LinuxTips
----
 
 ![image-20220514180929310](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220514180929310.png)
 

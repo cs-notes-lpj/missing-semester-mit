@@ -1,8 +1,3 @@
----
-title: missing-semester-of-cs-edu-solution-1
-date: 2022-05-23
-caterories: missing-semester-of-cs-edu
----
 
 > 第一节课后作业
 

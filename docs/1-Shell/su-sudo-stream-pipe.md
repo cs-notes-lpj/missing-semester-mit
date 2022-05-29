@@ -1,8 +1,3 @@
----
-title: 两个程序：su、sudo；程序只做 3 件事（接收输入、计算、进行输出），而（stream 的重定向、使用管道拼接程序）由 Shell 负责
-date: 2022-05-14
-categories: LinuxTips
----
 
 > On GNU/Linux or macOS
 

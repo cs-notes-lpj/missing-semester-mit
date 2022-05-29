@@ -1,8 +1,3 @@
----
-title: Vim tutorial
-date: 2022-05-21
-categories: Editors
----
 
 > [Vim](https://www.vim.org/) is a modal editor.
 

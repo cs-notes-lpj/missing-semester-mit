@@ -1,8 +1,3 @@
----
-title: 在 shell 中「执行」bash 脚本，和将 bash 脚本「加载」到 shell 中，二者是有区别的
-date: 2022-05-19
-categories: LinuxTips
----
 
 比如你写了一些 bash 脚本代码，保存在了一个 .sh 文件中
 

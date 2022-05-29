@@ -1,0 +1,4 @@
+- [简介](/)
+- [Course overview + the shell](/docs/1-Shell.md)
+- [Shell Tools and Scripting](/docs/2-ShellTools&BashScripting.md)
+- [Editors (Vim)](/docs/3-Vim.md)

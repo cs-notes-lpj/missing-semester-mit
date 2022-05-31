@@ -8,6 +8,7 @@
   - [exericses](/docs/1-Shell/exericses.md)
 
 - Shell Tools and Scripting
+  - [load](/docs/2-ShellTools%26BashScripting/load.md)
   - [load-vs-exec in bashscript](/docs/2-ShellTools%26BashScripting/load-vs-exec-in-bashscript.md)
   - [$0](/docs/2-ShellTools%26BashScripting/dollar-0.md)
 

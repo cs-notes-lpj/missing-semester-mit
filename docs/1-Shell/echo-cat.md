@@ -7,6 +7,6 @@
 
 从上图可以看出，`cat` 可以以 stream 的形式接收输入，进而输出
 
-[拓展](https://liupj.top/2022/05/03/why-cd-is-builtin/#拓展)
+[拓展](https://cs-notes-lpj.github.io/mit-missing-semester-tools/#/docs/1-Shell/why-cd-is-builtin?id=拓展)
 
 （完）

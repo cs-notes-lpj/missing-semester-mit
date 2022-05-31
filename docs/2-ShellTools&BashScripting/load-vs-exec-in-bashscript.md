@@ -9,7 +9,7 @@
 
 发现并没有 cd 到 foo 目录中
 
-这时你想起了[这篇总结](https://liupj.top/2022/05/03/why-cd-is-builtin/)
+这时你想起了[这篇总结](https://cs-notes-lpj.github.io/mit-missing-semester-tools/#/docs/1-Shell/why-cd-is-builtin)
 
 然后你理解了上述现象的原因（子进程只能影响它自己，而无法影响父进程）
 
@@ -19,6 +19,6 @@
 
 ![image-20220519105543636](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220519105543636.png)
 
-不妨再看一下[这篇文章](https://liupj.top/2022/05/18/dollar-0/)以加深理解
+不妨再看一下[这篇文章](https://cs-notes-lpj.github.io/mit-missing-semester-tools/#/docs/2-ShellTools%26BashScripting/dollar-0)以加深理解
 
 （完）

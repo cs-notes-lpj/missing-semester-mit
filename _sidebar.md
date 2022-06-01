@@ -8,9 +8,9 @@
   - [exericses](/docs/1-Shell/exericses.md)
 
 - Shell Tools and Scripting
-  - [load](/docs/2-ShellTools%26BashScripting/load.md)
-  - [load-vs-exec](/docs/2-ShellTools%26BashScripting/load-vs-exec.md)
-  - [$0](/docs/2-ShellTools%26BashScripting/dollar-0.md)
+  - [load](/docs/2-ShellScript-Tools/load.md)
+  - [load-vs-exec](/docs/2-ShellScript-Tools/load-vs-exec.md)
+  - [$0](/docs/2-ShellScript-Tools/dollar-0.md)
 
 - Editors (Vim)
   - [tutorial](/docs/3-Vim/vim-tutorial.md)

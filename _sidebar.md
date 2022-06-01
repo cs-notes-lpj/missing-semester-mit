@@ -9,7 +9,7 @@
 
 - Shell Tools and Scripting
   - [load](/docs/2-ShellTools%26BashScripting/load.md)
-  - [load-vs-exec in bashscript](/docs/2-ShellTools%26BashScripting/load-vs-exec-in-bashscript.md)
+  - [load-vs-exec](/docs/2-ShellTools%26BashScripting/load-vs-exec.md)
   - [$0](/docs/2-ShellTools%26BashScripting/dollar-0.md)
 
 - Editors (Vim)

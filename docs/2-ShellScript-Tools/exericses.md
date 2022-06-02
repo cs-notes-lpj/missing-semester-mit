@@ -8,4 +8,7 @@
 
 ![image-20220601223047036](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220601223047036.png)
 
+[>&2 ?](https://www.quora.com/In-a-shell-script-what-does-1-in-2-1-mean-This-was-found-in-a-configure-script-of-Apache-HTTP-Server-source-directory/answer/Brian-Bi)
+
+![image-20220602110843167](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220602110843167.png)
 

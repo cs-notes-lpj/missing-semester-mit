@@ -9,3 +9,5 @@ http://mywiki.wooledge.org/BashFAQ
 
 Functions have to be in the same language as the shell, while scripts can be written in any language
 
+Remember, one of the best properties of the shell is that you are just calling programs
+

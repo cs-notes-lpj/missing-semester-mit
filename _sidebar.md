@@ -10,7 +10,7 @@
 - Shell Tools and Scripting
   - [load](/docs/2-ShellScript-Tools/load.md)
   - [load-vs-exec](/docs/2-ShellScript-Tools/load-vs-exec.md)
-  - [$0](/docs/2-ShellScript-Tools/dollar-0.md)
+  - [arguments](/docs/2-ShellScript-Tools/arguments.md)
   - [exericses](/docs/2-ShellScript-Tools/exericses.md)
 
 - Editors (Vim)

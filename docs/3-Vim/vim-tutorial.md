@@ -75,3 +75,7 @@ gnome-tweaks
 
 Keyboard & Mouse => Additional Layout Options => Caps Lock Behavior => ...
 
+#### 关于插件管理
+
+![20220625141249](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-clipboard/20220625141249.png)
+

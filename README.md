@@ -1,17 +1,19 @@
 
 # The Missing Semester of Your CS Education
 
-> 本站记录我自己的「听课笔记、作业实践、思考总结」
+learn from => https://missing.csail.mit.edu
 
-[official_link](https://missing.csail.mit.edu/)
+this site includes my `notes`、`exericses`、and `thoughts`
 
-http://mywiki.wooledge.org/BashFAQ
+```txt
+# how to learn
 
-Functions have to be in the same language as the shell, while scripts can be written in any language
+1. 预习文档
 
-Remember, one of the best properties of the shell is that you are just calling programs
+2. 看视频 + 做笔记
 
-As you have seen so far commands will take input from both arguments and STDIN.
+3. 梳理笔记 + 做练习题
 
-but some commands like tar take inputs from arguments. To bridge this disconnect there’s the xargs command which will execute a command using STDIN as arguments. For example ls | xargs rm will delete the files in the current directory.
+4. 复习文档
+```
 

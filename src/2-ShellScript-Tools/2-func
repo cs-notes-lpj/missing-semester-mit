@@ -1,2 +1,0 @@
-macro () { oldDir="$PWD" }
-polo () { cd $oldDir }

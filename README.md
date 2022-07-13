@@ -3,17 +3,15 @@
 
 learn from => https://missing.csail.mit.edu
 
-this site includes my `notes`、`exericses`、and `thoughts`
+this site includes my `translation`、`notes`、`exericses`、and `thoughts`
 
 ```txt
 # how to learn
 
-1. 预习文档
+1. 把文档翻译一遍
 
 2. 看视频 + 做笔记
 
-3. 梳理笔记 + 做练习题
-
-4. 复习文档
+3. 复习 + 完成练习题
 ```
 

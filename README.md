@@ -12,7 +12,7 @@ this site includes my `translation`、`notes`、`exericses`、and `thoughts`
 
 2. 看视频 + 做笔记
 
-3. 复习 + 完成练习题
+3. 梳理复习 + 完成习题
 ```
 
 ### 2020 Lectures
@@ -39,5 +39,5 @@ this site includes my `translation`、`notes`、`exericses`、and `thoughts`
 
 - 1/30: Q&A
 
-> 在 YOUTUBE 上可以看课程讲座的[视频回放](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)，尽管本课程每一年的内容都略有不同，但仍然建议学习年份较新的版本，也正是由于每一年的内容都略有不同，因此 2019 年的版本仍然支持[访问](https://missing.csail.mit.edu/2019/)
+> 在 YOUTUBE 上可以观看课程讲座的[视频回放](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)，尽管本课程每一年的内容都略有不同，但仍然建议学习年份较新的版本，也正是由于每一年的内容都略有不同，因此 2019 年的版本仍可[访问](https://missing.csail.mit.edu/2019/)
 

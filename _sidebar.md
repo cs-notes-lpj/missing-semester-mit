@@ -4,4 +4,5 @@
 - [Editors (Vim)](/docs/3.md)
 - [Data Wrangling](/docs/4.md)
 - [Command-line Environment](/docs/5.md)
+- [Version Control (Git)](/docs/6.md)
 
